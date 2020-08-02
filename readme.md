@@ -4,5 +4,5 @@ https://leetcode.com/explore/featured/card/august-leetcoding-challenge/549/week-
 ## DayWise Question
 Day | Link 
 ------------------- | ---------------------
-Day1 | https://leetcode.com/problems/detect-capital/
-Day2 | https://leetcode.com/problems/design-hashset/
+Day1(Detect Capital) | https://leetcode.com/problems/detect-capital/
+Day2(Design Hashset) | https://leetcode.com/problems/design-hashset/

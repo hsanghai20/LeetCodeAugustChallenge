@@ -5,3 +5,4 @@ https://leetcode.com/explore/featured/card/august-leetcoding-challenge/549/week-
 Day | Link 
 ------------------- | ---------------------
 Day1 | https://leetcode.com/problems/detect-capital/
+Day2 | https://leetcode.com/problems/design-hashset/
